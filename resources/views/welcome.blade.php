@@ -20,14 +20,14 @@
                     </div>
                     <div class="box2">
                         <h3>indeling van de blokken</h3>
-                    
-
+                       
                     </div>
                     <div class="box3">
                         <h3>Versnellen</h3>
                     
 
                     </div>
+                </div>
                 <div class="vakken">
                     <div class="boxWIN large">
                         <h3>NATIVE</h3>
@@ -59,9 +59,15 @@
                     
                     
 
-                </div>
+                
             </div>
-            
+
+            <div class="teacher">
+                <img src="img/" alt="">
+            </div>
+
+        </main>
+        @include('footer')    
             
     </body>
 </html>
