@@ -25,11 +25,23 @@ header{
 h1{
 	font-size: 150px;
 	color:lightblue;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	letter-spacing: 5px;
 }
+
+
+
+
 
 /*------------------EINDE HEADER-------------------*/
 
 /*-----------------BEGIN MAIN----------------------*/
+
+main h2{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	letter-spacing: 2px;
+	margin-left: 20px;
+}
 
 .grid-container{
 	display: grid;
@@ -44,7 +56,7 @@ h1{
 .box1{
 	display: flex;
 	flex-direction: column;
-	height: 300px;
+	height: 500px;
 	border: 1px solid black;
 	margin: 10px;
 	align-items: center;
@@ -62,7 +74,7 @@ h1{
 .box2{
 	display: flex;
 	flex-direction: column;
-	height: 300px;
+	height: 528px;
 	border: 1px solid black;
 	margin: 10px;
 	align-items: center;
@@ -73,97 +85,6 @@ h1{
 	transition: all .8s;
 }
 
-
-
-.box3{
-	display: flex;
-	flex-direction: column;
-	height:300px;	
-	
-	border: 1px solid black;
-	margin: 10px;
-	align-items: center;
-	text-align: justify;
-	padding: 10px;
-	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
-	background-size: 100% 200%;
-	transition: all .8s;
-}
-
-
-
-.boxWIN {
-	display: flex;
-	flex-direction: column;
-	border: 1px solid black;
-	margin: 10px;
-	align-items: center;
-	text-align: justify;
-	padding: 10px;
-	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
-	background-size: 100% 200%;
-	transition: all .8s;
-}
-
-
-
-.boxWEB {
-	display: flex;
-	flex-direction: column;
-	border: 1px solid black;
-	margin: 10px;
-	align-items: center;
-	text-align: justify;
-	padding: 10px;
-	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
-	background-size: 100% 200%;
-	transition: all .8s;
-}
-
-
-
-.boxPRA {
-	display: flex;
-	flex-direction: column;
-	border: 1px solid black;
-	margin: 10px;
-	align-items: center;
-	text-align: justify;
-	padding: 10px;
-	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
-	background-size: 100% 200%;
-	transition: all .8s;
-}
-
-
-
-.boxPRO {
-	display: flex;
-	flex-direction: column;
-	border: 1px solid black;
-	margin: 10px;
-	align-items: center;
-	text-align: justify;
-	padding: 10px;
-	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
-	background-size: 100% 200%;
-	transition: all .8s;
-}
-
-
-
-.boxGENE {
-	display: flex;
-	flex-direction: column;
-	border: 1px solid black;
-	margin: 10px;
-	align-items: center;
-	text-align: justify;
-	padding: 10px;
-	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
-	background-size: 100% 200%;
-	transition: all .8s;
-}
 
 
 
@@ -185,12 +106,11 @@ h1{
 
 
 
-	
 
-
+/*=======Slideshow=======*/
 /* Slideshow container */
 .slideshow-container {
-	max-width: 600px;
+	max-width: 800px;
 	position: relative;
 	margin: auto;
 	margin-top: 50px;
@@ -274,10 +194,80 @@ h1{
   @media only screen and (max-width: 300px) {
 	.prev, .next,.text {font-size: 11px}
   }
+
+  
+  /*=======Slideshow=========================*/
+
+  /*=======Vakken=============================*/
+
+/* Style the container with a rounded border, grey background and some padding and margin */
+.container {
+	border: 2px solid #ccc;
+	background-color: #bcafe2;
+	border-radius: 5px;
+	padding: 16px;
+	margin: 16px 0;
+  }
+  
+  /* Clear floats after containers */
+  .container::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+  
+  /* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+  .container img {
+	float: left;
+	margin-right: 20px;
+	border-radius: 20%;
+  }
+  
+  /* Increase the font-size of a span element */
+  .container span {
+	font-size: 20px;
+	margin-right: 15px;
+  }
+  
+  /* Add media queries for responsiveness. This will center both the text and the image inside the container */
+  @media (max-width: 500px) {
+	.container {
+	  text-align: center;
+	}
+  
+	.container img {
+	  margin: auto;
+	  float: none;
+	  display: block;
+	  
+	}
+  }
+
+  .container p{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .container h3{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	letter-spacing: 2px;
+  }
+
+  
+
 /*------------------EINDE MAIN------------------*/
 
 /*------------------FOOTER------------------*/
 footer{
-	background-color: yellow;
+	background-color: purple;
+}
+footer p{
+	color:lightblue;
+	font-size: 30px;
+}
+
+footer h2{
+	color:lightblue;
+	font-size: 50px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 /*------------------EINDE FOOTER------------------*/
