@@ -15,7 +15,9 @@
             <div class="grid-container">
                 <div class="info">
                     <div class="box1">
-                        
+                        <h2>Rooster</h2>
+                        <P>Dit het rooster want je kan verwachten in het 1e jaar</P>
+                        <img src="img/rooster.png" alt="rooster" style = "width:730px">
                     
 
                     </div>
@@ -32,47 +34,65 @@
                     <div class="container">
                         <h3>NATIVE</h3>
                         <p><p>Je leert applicaties te bouwen die draaien op een Windows-computer. In dit blok werken we met de taal ‘Python’. Om die taal te leren, beginnen we met programmeren op een kleiner apparaat: de micro:bit. Voor meer informatie kijk je in de moduleboekjes.</p><p>
-                        <img src="img/phthon.jfif" alt="python" style="width:90px">
-                        <img src="img/Csharp.png" alt="C#" style="width:90px" >
+                        <div class="foto">
+                          <img src="img/phthon.jfif" alt="python" style="width:90px">
+                          <img src="img/Csharp.png" alt="C#" style="width:90px" >
+                        </div>
+                        
 
                     </div>
                     <div class="container">
                         <h3>WEB Development</h3>
-                        <p>Dit vak gaatover het maken van websites en webapplicaties. We beginnen simpel met de opmaaktalen HTML en CSS, dat zijn de bouwstenen van een website. Daarna leer je een interactieve website te bouwen.Voor meer informatie kijk je in de moduleboekjes</p>
-                        <img src="img/PHP.jfif" alt="PHP" style="width:90px">
-                        <img src="img/CSS,HTML.png" alt="HTML" style="width:90px">
-                        <img src="img/SQL.png" alt="SQL" style="width:90px">
+                        <br>
+                        <h4>Dit vak gaat over het maken van websites en webapplicaties. We beginnen simpel met de opmaaktalen HTML en CSS, in het 2e blok gaan we verder met php. Dat zijn de bouwstenen van een website.</h4>
+                        <br>
+                        <P>HTML en css is voor de opmaak van de site, dus de kleuren en hoe alles netjes staat.<br>
+                          PHP is voor de functinaliteit van de website, voor het versturen en ontvangen van informatie.<br>
+                          SQL is om informatie te versturen naar je database en op te halen uit je database.
+                        </P>
 
+                        <div class="foto">
+                          <img src="img/PHP.jfif" alt="PHP" style="width:90px">
+                          <img src="img/CSS,HTML.png" alt="HTML" style="width:90px">
+                          <img src="img/SQL.png" alt="SQL" style="width:90px">
+                        </div>
                     </div>
                     <div class="container">
                         <h3>PRAKTIJK WERK</h3>
                         <p>Je werkt zelfstandig aan de praktijkopdrachten in ons praktijklokaal. Omdat je zelfstandig moet werken, kun je niet altijd meteen je vragen stellen. Deze schrijf je dan op, om er bij de lessen PRO op terug te komen. Voor meer informatie kijk je in de boekjes van de praktijkopdrachten.</p>
-                        <img src="img/phthon.jfif" alt="python" style="width:90px">
-                        <img src="img/Csharp.png" alt="C#" style="width:90px" >
-                        <img src="img/PHP.jfif" alt="PHP" style="width:90px">
-                        <img src="img/CSS,HTML.png" alt="HTML" style="width:90px">
-                        <img src="img/SQL.png" alt="SQL" style="width:90px">
+                        <div class="foto">
+                          <img src="img/phthon.jfif" alt="python" style="width:90px">
+                          <img src="img/Csharp.png" alt="C#" style="width:90px" >
+                          <img src="img/PHP.jfif" alt="PHP" style="width:90px">
+                          <img src="img/CSS,HTML.png" alt="HTML" style="width:90px">
+                          <img src="img/SQL.png" alt="SQL" style="width:90px">
+                        </div>
+                       
                     
 
                     </div>
                     <div class="container">
                         <h3>PRAKTIJKONDERSTEUNING</h3>
                         <p>Je krijgt coaching en ondersteuning bij de praktijkopdrachten. Ook is er les in modules die met het V-model te maken hebben. Meestal gaat dat niet over programmeren, maar juist over de andere kanten van ons vak.</p>
-                        
-
                     </div>
                     <div class="container">
                         <h3>NEDERLANDS/ENGELS/REKENEN</h3>
                         <p>generieke vakken.</p>
-                        <img src="img/nederlands.jpg" alt="PHP" style="width:90px">
-                        <img src="img/optellen.png" alt="HTML" style="width:90px">
-                        <img src="img/engels.jpg" alt="SQL" style="width:90px">
+                        <div class="foto">
+                          <img src="img/nederlands.jpg" alt="PHP" style="width:80px">
+                          <img src="img/optellen.png" alt="HTML" style="width:80px">
+                          <img src="img/engels.jpg" alt="SQL" style="width:80px">
+                        </div>
+                        
                     </div>
 
                     <div class="container">
                         <h3>ALGO</h3>
                         <p>In deze les leer je gedachten gang van het coderen en daarbij gebruiken we vooral PHP</p>
-                        <img src="img/PHP.jfif" alt="PHP" style="width:90px">
+                        <div class="foto">
+                          <img src="img/PHP.jfif" alt="PHP" style="width:90px">
+                        </div>
+                        
       
 
                     </div>
