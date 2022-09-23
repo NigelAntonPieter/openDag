@@ -86,34 +86,34 @@
 
            
 
-            
-            
-              <h2>Het docenten team en de:</h2>
+            <h2>Het docenten team en de:</h2>
+            <div class="school">
+              
               <div class="slideshow-container">
 
                 <div class="mySlides fade">
-                  <div class="numbertext">1 / 8</div>
-                  <img src="img/docent1.jpg" style="width:100%">
+                  
+                  <img src="img/docent1.jpg" style="width:500px">
                   <div class="text">
                     <h4>Bart Roos </h4>
-                  <p>docent WIN/WEB/SLB/CGO</p>
-                  <p><a href="mailto:b.roos@curio.nl">b.roos@curio.nl</a></p> 
-                    </div>
-                </div>
-
-                <div class="mySlides fade">
-                  <div class="numbertext">2 / 8</div>
-                  <img src="img/eb89.jpg" style="width:100%">
-                  <div class="text">
-                    <h4>Elton Boekhoudt</h4>
-                  <p>docent WEB/TBZ</p>
-                  <p><a href="mailto:e.boekhoudt@curio.nl">e.boekhoudt@curio.nl</a></p>
+                    <p>docent WIN/WEB/SLB/CGO</p>
+                    <p><a href="mailto:b.roos@curio.nl">b.roos@curio.nl</a></p> 
                   </div>
                 </div>
 
                 <div class="mySlides fade">
-                  <div class="numbertext">3 / 8</div>
-                  <img src="img/steven.png" style="width:100%">
+                  
+                  <img src="img/eb89.jpg" style="width:500px">
+                  <div class="text">
+                    <h4>Elton Boekhoudt</h4>
+                    <p>docent WEB/TBZ</p>
+                    <p><a href="mailto:e.boekhoudt@curio.nl">e.boekhoudt@curio.nl</a></p>
+                  </div>
+                </div>
+
+                <div class="mySlides fade">
+                 
+                  <img src="img/steven.png" style="width:500px">
                   <div class="text">
                     <h4>Steven van Rosendaal</h4>
                     <p>docent PRO/SLB/</p>
@@ -122,8 +122,8 @@
                 </div>
 
                 <div class="mySlides fade">
-                  <div class="numbertext">4 / 8</div>
-                  <img src="img/docent4.jpg"  style="width:100%">
+                 
+                  <img src="img/docent4.jpg"  style="width:500px">
                   <div class="text">
                     <h4>Ine Vermeer </h4>
                     <p>docent WEB/SLB</p>
@@ -132,8 +132,8 @@
                 </div>
 
                 <div class="mySlides fade">
-                  <div class="numbertext">5 / 8</div>
-                  <img src="img/wicher.png" style="width:100%">
+                  
+                  <img src="img/wicher.png" style="width:500px">
                   <div class="text">
                     <h4>Wicher Hulzenbosch </h4>
                     <p>docent WIN/PRA</p>
@@ -142,8 +142,8 @@
                 </div>
 
                 <div class="mySlides fade">
-                  <div class="numbertext">6 / 8</div>
-                  <img src="img/michel.png" style="width:100%">
+                 
+                  <img src="img/michel.png" style="width:500px">
                   <div class="text">
                     <h4>Michel Meeuwesen</h4>
                     <p>docent PRA</p>
@@ -152,8 +152,8 @@
                 </div>
 
                 <div class="mySlides fade">
-                  <div class="numbertext">7 / 8</div>
-                  <img src="img/Wiro.jfif" style="width:100%">
+                 
+                  <img src="img/Wiro.jfif" style="width:500px">
                   <div class="text">
                     <h4>Wiro Verdiesen</h4>
                     <p>Docent Rekenen</p>
@@ -162,8 +162,8 @@
                 </div>
 
                 <div class="mySlides fade">
-                  <div class="numbertext">8 / 8</div>
-                  <img src="img/docent10.jfif" style="width:100%">
+                  
+                  <img src="img/docent10.jfif" style="width:500px">
                   <div class="text">
                     <h4>Vincent Hooft</h4>
                     <p>Docent ALGO</p>
@@ -177,7 +177,7 @@
                 <a class="prev" onclick="plusSlides(-1)">❮</a>
                 <a class="next" onclick="plusSlides(1)">❯</a>
 
-                </div>
+                
                 <br>
 
                 <div style="text-align:center">
@@ -221,86 +221,85 @@
                 }
                 </script>
               </div>
-              <!-- <div class="slideshow-container">
+              <!-----------SlideShow2------------>
+              <div class="slideshow-container2">
 
-                <div class="mySlide1 fade">
-                  <div class="numbertext">1 / 4</div>
-                    <img src="img/locatie1.jpeg">
-                  
-                  
+                <!-- Full-width images with number and caption text -->
+                <div class="mySlides2 fade2">
+                  <img src="img/locatie1.jpeg" style="width:80%">
+                  <div class="text2"></div>
                 </div>
 
-                <div class="mySlide1 fade">
-                  <div class="numbertekst">2 / 4</div>
-                    <img src="img/locatie2.jpeg">
-                  
-                  
+                <div class="mySlides2 fade2">
+                  <img src="img/locatie2.jpeg" style="width:80%">
+                  <div class="text2"></div>
                 </div>
 
-                <div class="mySlide1 fade">
-                  <div class="numbertekst">3 / 4</div>
-                    <img src="img/locatie3.jpeg">
-                  
-                  
+                <div class="mySlides2 fade2">
+                  <img src="img/locatie3.jpeg" style="width:80%">
+                  <div class="text2"></div>
                 </div>
 
-                <div class="mySlide1 fade">
-                  <div class="numbertekst">4 / 4</div>
-                    <img src="img/locatie4.jpeg">
-                  
-                  
+                <div class="mySlides2 fade2">
+                  <img src="img/locatie4.jpeg" style="width:80%">
+                  <div class="text2"></div>
                 </div>
-
+                <div class="mySlides2 fade2">
+                  <img src="img/locatie5.jpeg" style="width:80%">
+                  <div class="text2"></div>
+                </div>
+                <div class="mySlides2 fade2">
+                  <img src="img/locatie6.jpeg" style="width:80%">
+                  <div class="text2"></div>
+                </div>
+                <!-- Next and previous buttons -->
+                <a class="prev2" onclick="plusSlides2(-1)">&#10094;</a>
+                <a class="next2" onclick="plusSlides2(1)">&#10095;</a>
                 
-                
-                
-
-
-                <a class="prev" onclick="plusSlides(-1)">❮</a>
-                <a class="next" onclick="plusSlides(1)">❯</a>
-
-                </div>
                 <br>
 
+                <!-- The dots/circles -->
                 <div style="text-align:center">
-                  <span class="dote" onclick="currentSlide(1)"></span> 
-                  <span class="dote" onclick="currentSlide(2)"></span> 
-                  <span class="dote" onclick="currentSlide(3)"></span> 
-                  <span class="dote" onclick="currentSlide(4)"></span> 
-                  
-                  
+                  <span class="dot2" onclick="currentSlide2(1)"></span>
+                  <span class="dot2" onclick="currentSlide2(2)"></span>
+                  <span class="dot2" onclick="currentSlid2(3)"></span>
+                  <span class="dot2" onclick="currentSlide2(4)"></span>
+                  <span class="dot2" onclick="currentSlide2(5)"></span>
+                  <span class="dot2" onclick="currentSlide2(6)"></span>
                 </div>
 
                 <script>
-                let slideIndex = 1;
-                showSlides(slideIndex);
+                  let slideIndex2 = 1;
+                  showSlides2(slideIndex2);
 
-                function plusSlides(n) {
-                  showSlides(slideIndex += n);
-                }
-
-                function currentSlide(n) {
-                  showSlides(slideIndex = n);
-                }
-
-                function showSlides(n) {
-                  let i;
-                  let slides = document.getElementsByClassName("mySlide1");
-                  let dots = document.getElementsByClassName("dote");
-                  if (n > slides.length) {slideIndex = 1}    
-                  if (n < 1) {slideIndex = slides.length}
-                  for (i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";  
+                  function plusSlides2(n) {
+                  showSlides2(slideIndex2 += n);
                   }
-                  for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
+
+                  function currentSlide2(n) {
+                  showSlides2(slideIndex2 = n);
                   }
-                  slides[slideIndex-1].style.display = "block";  
-                  dots[slideIndex-1].className += " active";
-                }
-                </script> -->
-              
+
+                  function showSlides2(n) {
+                  let i2;
+                  let slides2 = document.getElementsByClassName("mySlides2");
+                  let dots2 = document.getElementsByClassName("dot2");
+                  if (n > slides2.length) {slideIndex2 = 1}
+                  if (n < 1) {slideIndex2 = slides2.length}
+                  for (i2 = 0; i2 < slides2.length; i2++) {
+                      slides2[i2].style.display = "none";
+                  }
+                  for (i2 = 0; i2 < dots2.length; i2++) {
+                      dots2[i2].className = dots2[i2].className.replace(" active", "");
+                  }
+                  slides2[slideIndex2-1].style.display = "block";
+                  dots2[slideIndex2-1].className += " active";
+                  }
+                </script>
+              </div>
             </div>
+              
+            
             
 
                             
