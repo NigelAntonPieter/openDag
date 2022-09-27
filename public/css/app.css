@@ -31,6 +31,12 @@ h1{
 	letter-spacing: 5px;
 }
 
+h3{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	letter-spacing: 2px;
+  }
+
+
 
 
 
@@ -68,6 +74,7 @@ main h2{
 	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
 	background-size: 100% 200%;
 	transition: all .8s;
+	
 }
 
 .box1 p{
@@ -89,7 +96,13 @@ main h2{
 	background: linear-gradient(to top, rgb(0,255,255) 50%, white 50%);
 	background-size: 100% 200%;
 	transition: all .8s;
+	
 }
+
+.box2 p{
+	
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	  }
 
 
 
@@ -310,6 +323,10 @@ main h2{
   to {opacity: 1}
 }
 
+
+
+
+
   /*===============Vakken====================*/
 
 /* Style the container with a rounded border, grey background and some padding and margin */
@@ -368,6 +385,17 @@ main h2{
   }
 
   
+  @media only screen and (max-width: 1400px)
+  {
+	.grid-container{
+		grid-template-columns: 1fr;
+		grid-template-rows: auto auto;
+
+		
+	
+
+	}
+  }
 
 /*------------------EINDE MAIN------------------*/
 
