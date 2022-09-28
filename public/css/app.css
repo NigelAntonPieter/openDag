@@ -67,6 +67,7 @@ main h2{
 	height: 500px;
 	border: 1px solid black;
 	border-radius: 10px;
+
 	margin: 10px;
 	align-items: center;
 	text-align: justify;
@@ -472,12 +473,19 @@ main h2{
 	.grid-container{
 		grid-template-columns: 1fr;
 		grid-template-rows: auto auto;
-
-		
-	
-
 	}
-  }
+
+	.slideshow-container{
+		grid-template-columns: 1fr;
+		grid-template-rows: auto auto;
+	}
+
+	.slideshow-container2{
+		display: block;
+	}
+	}
+}
+  
 
 /*------------------EINDE MAIN------------------*/
 

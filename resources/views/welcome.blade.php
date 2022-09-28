@@ -14,6 +14,7 @@
           <h2>Alles wat je moet weten </h2>
             <div class="grid-container">
                 <div class="info">
+                  
                     <div class="box1">
                         <h2>Rooster</h2>
                         <P>Dit het rooster want je kan verwachten in het 1e jaar</P>
@@ -69,9 +70,18 @@
                       <h3>Indeling Blokken</h3>
                       <p>Op Curio werkt een schooljaar niet met dat je als het niet haalt dat je dan een heel jaar overnieuw moet doen hier werken wij in blokken, blok A helemaal tot blok H, zodat als je het niet haalt inplaats van een heel jaar maar een half jaar hoeft over nieuw hoeft te doen. in elke blok heb je buzzerweken, daarin maak je theoretische/praktische toetsen om te zien of alle stof wel begreep die je hebt gekregen tijdesns de lessen. </p>
                       <br>
+                      
+                    </div>
+                    <div class="box2">
+                      
                       <h3>Versnellingstraject</h3>
                       <p>Aan het einde van Blok A, krijg je een kleurcode. De kleuren zijn groen , geel en rood. Aan de hand van deze kleurencode wordt er bepaald of over mag naar het volgende blok en of je in aanmerking komt voor een versnellingstraject. Als je kleurencode groen is, mag je over naar het versnelde blok.  </p>
+                      <br>
+                      <p>Om een groene kleurcode te krijgen moet je aan een aantal aspecten voldoen,je moet goed meedoen met de les dus niet alleen op je telefoon zitten en andere dingen op je pc doen. je moet al je huiswerk opdrachten op tijd en goed inleveren, en ook moet je aanwezigheid wel hoog zijn, dus niet te vaak te laat komen of je ziek melden. Als dat allemaal goed gaat krijg je aan het einde van blok A een bericht van je mentor dat je versneld mag doen. Met versneld doe je inplaats van 4 jaar je opleiding na 3 jaar.</p>
                     </div>
+                    
+
+                    
                       
                                               
                        
@@ -163,7 +173,7 @@
 
            
 
-            <h2>Het docenten team en de:</h2>
+            <h2>Het docenten team:</h2>
             <div class="school">
               
               <div class="slideshow-container">
