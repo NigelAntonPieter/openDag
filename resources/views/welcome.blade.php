@@ -66,6 +66,11 @@
                         •	Software development-bedrijven<br>
                         •	Software consultancy-ondernemingen <br></p>
                       <br>
+                      <h3>Indeling Blokken</h3>
+                      <p>Op Curio werkt een schooljaar niet met dat je als het niet haalt dat je dan een heel jaar overnieuw moet doen hier werken wij in blokken, blok A helemaal tot blok H, zodat als je het niet haalt inplaats van een heel jaar maar een half jaar hoeft over nieuw hoeft te doen. in elke blok heb je buzzerweken, daarin maak je theoretische/praktische toetsen om te zien of alle stof wel begreep die je hebt gekregen tijdesns de lessen. </p>
+                      <br>
+                      <h3>Versnellingstraject</h3>
+                      <p>Aan het einde van Blok A, krijg je een kleurcode. De kleuren zijn groen , geel en rood. Aan de hand van deze kleurencode wordt er bepaald of over mag naar het volgende blok en of je in aanmerking komt voor een versnellingstraject. Als je kleurencode groen is, mag je over naar het versnelde blok.  </p>
                     </div>
                       
                                               
